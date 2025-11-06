@@ -25,10 +25,10 @@ body{
   text-align: center;
   margin: 0 5px;
   border-radius: 10px;
-  opacity: 30%;
+  opacity: 80%;
 }
 .nav-button:hover {
   background-color: #0056b3;
   border-radius: 50px;
-  opacity: 0%;
+  opacity: 100;
 }
